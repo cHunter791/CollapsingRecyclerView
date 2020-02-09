@@ -1,0 +1,2 @@
+rootProject.name='CoordinatorLayoutPlayground'
+include ':app'
